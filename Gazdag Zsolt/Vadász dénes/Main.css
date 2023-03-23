@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+#mainNavbarId {
+    background-color: white;
+    position: fixed;
+}
+
+.navbarSzoveg {
+    color: wheat;
+    display: inline-block;
+    display: inline;
+    width: 2cm;
+}
+
+#logoDiv {
+    border: 10px black solid;
+    border-radius: 10px;
+    width: 2cm;
+}
